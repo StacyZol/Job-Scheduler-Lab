@@ -25,7 +25,7 @@ In this lab, you will create multiple JobServices to update various pieces of in
 
 - Create at least 2 jobs that update two different pieces of information under the same constraints
 
-- Create 1 job that updates a fourth piece of information under a different constraint.
+- Create a third job that updates a third piece of information under a different constraint.
 
 - Display both the data prior to the job running and the data that is replacing it after the job runs. If the job has not run yet, show nothing for the replacement data.
 
@@ -47,3 +47,9 @@ A working application that meets the requirements above.
 - [Background Optimization with JobScheduler](https://developer.android.com/preview/features/background-optimization.html)
 - [CalendarProvider](https://developer.android.com/guide/topics/providers/calendar-provider.html)
 - [Glide Image Loader](https://github.com/bumptech/glide)
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license. 
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
